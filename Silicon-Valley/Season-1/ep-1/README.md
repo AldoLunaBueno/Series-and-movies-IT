@@ -1,12 +1,29 @@
-# 1. Minimum Viable Product
+# 1. Minimum Viable Product <!-- omit in toc -->
 
-Un poco de contexto.
+- [Contexto](#contexto)
+- [¿Aceptas el dinero o conservas la empresa?](#aceptas-el-dinero-o-conservas-la-empresa)
+- [No es una empresa IT: es una secta](#no-es-una-empresa-it-es-una-secta)
+- [¿Existe la puntuación Weissman?](#existe-la-puntuación-weissman)
 
-## ¿Aceptas el dinero o conservas la empresa? 
+
+## Contexto
+
+El capítulo comienza en medio de una gran fiesta en Palo Alto, aunque parece que todos tienen los pies atornillados al suelo, porque ni se mueven ni parecen disfrutar. Qué digo, algunos no parecen estar vivos. 
+
+![](sources/ep-1_a-la-mierda-esta-gente.gif)
+
+Aquí conocemos al equipo de tarados que veremos durante toda la serie, o no. En realidad no son tarados, a excepción de Erlick, pero de momento son unos insectos comparados con los tiburones que tienen alrededor.
+
+![](sources/2023-04-22-18-25-33.png)
+> De izquierda a derecha: Erlick Bachman, Cabezón, Richard Hendricks, Dinesh y Gilfoyle.
+
+Esta fiesta es para celebrar un trato multimillonario entre Google y el equipo que está festejando: les compraron la empresa por más de 200 millones de dólares. Esta escena introductoria ya nos da pistas de lo que viene más adelante.
+
+## ¿Aceptas el dinero o conservas la empresa?
 
 Si logras crear algo que tiene el potencial de cambiar el mundo, ¿aceptas la mejor oferta para que otro lo siga desarrollando o asumes el reto y tomas las riendas? Este es el difícil dilema que toca este capítulo.
 
-Richard seguramente se enfrenta aquí a la decisión más difícil de su vida. El dueño de Hooli, Gavin Belson, se entera de que Richard, uno de sus empleados, ha creado un algoritmo capaz de de compresión capaz de 
+Richard seguramente se enfrenta aquí a la decisión más difícil de su vida. El dueño de Hooli, Gavin Belson, se entera de que Richard, uno de sus empleados, ha creado un algoritmo capaz de hacer busquedas en un espacio de compresión.
 
 ## No es una empresa IT: es una secta
 
