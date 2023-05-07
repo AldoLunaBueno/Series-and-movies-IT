@@ -13,7 +13,7 @@
 
 Por fin me terminé de ver la primera temporada de esta gran serie. Pocas series me han hecho reír tanto y tan fuerte como esta XD. Es una locura el humor negro y sin censura que usan, que además está muy bien integrado con todo lo que sucede. Si estás un poco relacionado con el mundo de la tecnología, es imposible no sentirte identificado con lo que viven los personajes. Por otro lado, se siente que la trama avanza rápido, muy rápido, y sus personajes no se quedan atrás. Por último, tiene un final superinspirador que nos enseña la lección más valiosa hasta el momento: 
 
-> **Para triunfar a veces es necesario parar, mandar tranquilamente todo al carajo, y perseguir una nueva idea o enfoque.**
+**Para triunfar a veces es necesario parar, mandar tranquilamente todo al carajo, y perseguir una nueva idea o enfoque.**
 
 Desde el primer capítulo vemos como el software de compresión de Richard, de forma inesperada, hace estallar el interés de dos multimillonarios al mismo tiempo: Gabin Belson y Peter Gregory. Richard no elige el camino fácil de aceptar el dinero a cambio de la empresa y todo su trabajo. Tiene el coraje de lanzarse a lo desconocido y _hacerlo posible_.
 
