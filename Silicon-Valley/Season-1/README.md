@@ -24,6 +24,3 @@ Vemos cómo la métodología Scrum brilla en estas circunstancias y agiliza todo
 Llega el día de la presentación, y lograron terminar el producto a último momento. ¿Y qué había hecho Hooli? Todos pensaban que lo que Belson iba a presentar sería como un auto de lujo con motor basura. Pero el producto de Hooli logró alcanzar el límite teórico de compresión descrito por la métrica de Weissman. En ambos productos el algoritmo crítico tenía la máxima performance posible, pero uno de ellos tenía muchísimas utilidades y funcionalidades construidas sobre eso, y era el de Hooli y sus cientos de programadores. Estaban jodidos.
 
 Pero, de pronto, en medio de una escena brutalmente graciosa en la que el equipo comienza a hacer un brainstorm de cómo tocarle la flauta en solo diez minutos a los ochocientos invitados del TechCrunch para ganar la competencia, Richard encuentra la luz. Se presentan y... creo que será mejor omitir esta parte, por si alguien no la ha visto aún, porque es muy bella. ;)
-
-
-[1. Minimum Viable Product](https://github.com/AldoLunaBueno/Series-and-movies-IT/tree/main/Silicon-Valley/Season-1/ep-1)
