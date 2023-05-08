@@ -9,3 +9,40 @@ Adelanto que escribiré para mí, ya que mi principal objetivo es quedarme con c
 ## Series
 
 - [Silicon Valley](/Silicon-Valley)
+- Mr. Robot
+- The IT Crowd
+- Halt and Catch Fire
+- Upload
+- Black Mirror
+- Devs
+
+## Películas
+
+- The Social Network
+- Pirates of Silicon Valley
+- Steve Jobs
+- Takedown
+- Who am I
+- The Imitation Game
+- The Dropout
+- The Circle
+- Her
+- Ex Machina
+- Blackhat
+- Trascendence
+- 2001: A Space Odyssey
+- Oxygen
+- Anon
+
+## Documentales
+
+- The Social Dilemma
+- Zero Days
+
+## Bonus
+
+- Java Forever And Ever Movie (Java vs Windows .Net)
+- Every Coding Interview Ever (Parody)
+- Kantega | The Mysterious Life of Developers
+- HACKERMAN'S HACKING TUTORIALS - How To Hack Time
+- 
