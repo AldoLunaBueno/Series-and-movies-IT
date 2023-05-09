@@ -21,7 +21,7 @@ Esta fiesta es para celebrar un trato multimillonario entre Google y el equipo q
 
 ## ¿Aceptas el dinero o conservas la empresa?
 
-Si logras crear algo que tiene el potencial de cambiar el mundo, ¿aceptas la mejor oferta para que otro lo siga desarrollando o asumes el reto y tomas las riendas? Este es el difícil dilema que toca este capítulo.
+Si logras crear algo que tiene el potencial de cambiar el mundo, ¿cierras el mejor trato de tu vida aceptando la mejor oferta y dejas que otro se lleve la gloria o asumes el reto y tomas las riendas hacia un nuevo mañana? Este es el difícil dilema que toca este capítulo.
 
 Richard seguramente se enfrenta aquí a la decisión más difícil de su vida. El dueño de Hooli, Gavin Belson, se entera de que Richard, uno de sus empleados, ha creado un algoritmo capaz de hacer busquedas en un espacio de compresión.
 
